@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+G:\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+G:\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+G:\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.baml
+G:\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.g.cs
+G:\Ejercicio1\Ejercicio1\obj\Debug\App.g.cs
+G:\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.cache
+G:\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.g.resources
+G:\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+G:\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
