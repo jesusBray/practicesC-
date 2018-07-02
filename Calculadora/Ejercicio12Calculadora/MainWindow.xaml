@@ -1,0 +1,23 @@
+﻿<Window x:Class="Ejercicio12Calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="lbx_Lista">
+        <TextBox x:Name="txtDato1" HorizontalAlignment="Left" Height="23" Margin="16,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154"/>
+        <TextBox x:Name="txtSigno" HorizontalAlignment="Left" Height="23" Margin="245,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+        <TextBox x:Name="txtDato2" HorizontalAlignment="Left" Height="23" Margin="349,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="177,122,0,0" VerticalAlignment="Top" Width="167" Click="clicResult" />
+        <Button x:Name="btnClear" Content="Borrar Datos" HorizontalAlignment="Left" Margin="221,195,0,0" VerticalAlignment="Top" Width="75" Click="ClicClear"/>
+        <Label Content="Calculadora" HorizontalAlignment="Left" Margin="221,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Javanese Text">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <ListBox x:Name="lbxLista" HorizontalAlignment="Left" Height="25" Margin="188,152,0,0" VerticalAlignment="Top" Width="138"/>
+        <Label Content="Signo" HorizontalAlignment="Left" Margin="245,63,0,0" VerticalAlignment="Top" Width="61" FontFamily="Javanese Text" Height="26" FontSize="9">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+    </Grid>
+</Window>

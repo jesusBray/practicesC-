@@ -1,0 +1,26 @@
+E:\JESUS\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.exe.config
+E:\JESUS\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.exe
+E:\JESUS\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.pdb
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.csprojResolveAssemblyReference.cache
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\MainWindow.baml
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\MainWindow.g.cs
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\App.g.cs
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora_MarkupCompile.cache
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.g.resources
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.Properties.Resources.resources
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.csproj.GenerateResource.Cache
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.exe
+E:\JESUS\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.pdb
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.exe.config
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.exe
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.pdb
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.exe
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\bin\Debug\Ejercicio12Calculadora.pdb
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.csprojResolveAssemblyReference.cache
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\MainWindow.baml
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\MainWindow.g.cs
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\App.g.cs
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora_MarkupCompile.cache
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.g.resources
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.Properties.Resources.resources
+G:\Programacion 1\2\Calculadora\Ejercicio12Calculadora\obj\Debug\Ejercicio12Calculadora.csproj.GenerateResource.Cache
