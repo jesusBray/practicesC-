@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Practica69\Practica69\bin\Debug\Practica69.exe.config
+C:\Users\usuario\Desktop\Practica69\Practica69\bin\Debug\Practica69.exe
+C:\Users\usuario\Desktop\Practica69\Practica69\bin\Debug\Practica69.pdb
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69_MarkupCompile.cache
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.g.resources
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.Properties.Resources.resources
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.exe
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Practica69.pdb
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Win.baml
+C:\Users\usuario\Desktop\Practica69\Practica69\obj\Debug\Win.g.cs
