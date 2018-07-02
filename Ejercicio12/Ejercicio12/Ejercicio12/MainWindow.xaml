@@ -1,0 +1,36 @@
+﻿<Window x:Class="Ejercicio12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid ContextMenuClosing="clicResultado1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="90"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnClic" Content="suerte sin Negra" Grid.Column="1" Grid.Row="4" FontWeight="ExtraBold"></Button>
+        <Button x:Name="btnClic2" Content="Suerte sin blanca" Grid.Column="4" Grid.Row="4" FontWeight="SemiBold" Click="ClicResultado2"></Button>
+        <Label Content="Casino el Solitario Frienzoner" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" FontSize="15" FontWeight="Bold"></Label>
+        <Label Content="Casino el Solitario Frienzoner" Grid.Column="3" Grid.Row="1" Grid.ColumnSpan="2" FontSize="15" FontWeight="Bold"></Label>
+        <Label x:Name="lblDado1" Content="Dado Uno" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblDado2" Content="Dado Dos" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblResp1" Content="Dado Uno" Grid.Column="3" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblResp2" Content="Dado Dos" Grid.Column="4" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblResultado2" Content="" Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblResultado1" Content="" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label x:Name="lblResp3" Content="Dado Tres" Grid.Column="5" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+        <Label Content="Dado Tres" Grid.Column="5" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center"></Label>
+    </Grid>
+</Window>

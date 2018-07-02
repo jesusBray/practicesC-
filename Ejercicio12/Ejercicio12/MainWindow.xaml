@@ -1,0 +1,22 @@
+﻿<Window x:Class="Ejercicio12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Letra" HorizontalAlignment="Left" Margin="25,59,0,0" VerticalAlignment="Top" Height="32" Width="66"/>
+        <TextBox x:Name="txtDato1" HorizontalAlignment="Left" Height="23" Margin="91,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnBoton" Content="Clic" HorizontalAlignment="Left" Margin="136,106,0,0" VerticalAlignment="Top" Width="75" Click="clicResultado"/>
+        <TextBox x:Name="txtDatoNumero" HorizontalAlignment="Left" Height="23" Margin="362,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDatoNumero2" HorizontalAlignment="Left" Height="23" Margin="362,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Numero" HorizontalAlignment="Left" Margin="274,59,0,0" VerticalAlignment="Top" Height="32" Width="66"/>
+        <Label Content="Numero" HorizontalAlignment="Left" Margin="274,89,0,0" VerticalAlignment="Top" Height="32" Width="66"/>
+        <Button x:Name="btnResultado" Content="clic" HorizontalAlignment="Left" Margin="407,147,0,0" VerticalAlignment="Top" Width="75" Click="clicresutlado2"/>
+        <Button x:Name="btnResultado_Copy" Content="clic" HorizontalAlignment="Left" Margin="407,147,0,0" VerticalAlignment="Top" Width="75" Click="clicresutlado2"/>
+        <Button x:Name="btnCasino" Content="Suerte" HorizontalAlignment="Left" Margin="64,229,0,0" VerticalAlignment="Top" Width="75" Click="clicNumero3"/>
+        <Label Content="Casino el Raton" HorizontalAlignment="Left" Margin="51,196,0,0" VerticalAlignment="Top" Height="28" Width="109" RenderTransformOrigin="0.093,1.205"/>
+        <Label x:Name="lblDado1" Content="Rata1" HorizontalAlignment="Left" Margin="25,254,0,0" VerticalAlignment="Top" Height="32" Width="66"/>
+        <Label x:Name="lblDado2" Content="Rata2" HorizontalAlignment="Left" Margin="136,249,0,0" VerticalAlignment="Top" Height="32" Width="66"/>
+        <Label x:Name="lblResul" Content="" HorizontalAlignment="Left" Margin="25,168,0,0" VerticalAlignment="Top" Height="28" Width="265"/>
+
+    </Grid>
+</Window>
