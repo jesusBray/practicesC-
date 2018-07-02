@@ -1,0 +1,56 @@
+﻿<Window x:Class="Ejercicio8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnDatosSemana" Content="Clic" HorizontalAlignment="Left" Margin="270,71,0,0" VerticalAlignment="Top" Width="75" Click="clicResult"/>
+        <TextBox x:Name="txtDias" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" Margin="186,26,0,0"/>
+        <ComboBox x:Name="cbxDia"  HorizontalAlignment="Left" Margin="46,64,0,0" VerticalAlignment="Top" Width="120" Background="Black">
+            <ComboBoxItem x:Name="cbxLunes" Content="1" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxMartes" Content="2" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxMiercoles" Content="3" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxJueves" Content="4" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxViernes" Content="5" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxSabado" Content="6" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem x:Name="cbxDomingo" Content="7" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <Label Content="1" HorizontalAlignment="Left" Height="31" Margin="46,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="2"  HorizontalAlignment="Left" Height="31" Margin="102,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="3"  HorizontalAlignment="Left" Height="31" Margin="158,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="4"  HorizontalAlignment="Left" Height="31" Margin="214,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="5"  HorizontalAlignment="Left" Height="31" Margin="270,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="6"  HorizontalAlignment="Left" Height="31" Margin="326,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="7"  HorizontalAlignment="Left" Height="31" Margin="382,105,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="8"  HorizontalAlignment="Left" Height="31" Margin="46,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="9"  HorizontalAlignment="Left" Height="31" Margin="102,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="10"  HorizontalAlignment="Left" Height="31" Margin="158,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="11"  HorizontalAlignment="Left" Height="31" Margin="214,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="12"  HorizontalAlignment="Left" Height="31" Margin="270,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="13"  HorizontalAlignment="Left" Height="31" Margin="326,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="14"  HorizontalAlignment="Left" Height="31" Margin="382,141,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="15"  HorizontalAlignment="Left" Height="31" Margin="46,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="16"  HorizontalAlignment="Left" Height="31" Margin="102,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="17"  HorizontalAlignment="Left" Height="31" Margin="158,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="18"  HorizontalAlignment="Left" Height="31" Margin="214,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="19"  HorizontalAlignment="Left" Height="31" Margin="270,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="20"  HorizontalAlignment="Left" Height="31" Margin="326,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="21"  HorizontalAlignment="Left" Height="31" Margin="382,177,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="22"  HorizontalAlignment="Left" Height="31" Margin="46,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="23"  HorizontalAlignment="Left" Height="31" Margin="102,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="24"  HorizontalAlignment="Left" Height="31" Margin="158,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="25"  HorizontalAlignment="Left" Height="31" Margin="214,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="26"  HorizontalAlignment="Left" Height="31" Margin="270,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="27"  HorizontalAlignment="Left" Height="31" Margin="326,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="28"  HorizontalAlignment="Left" Height="31" Margin="382,213,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="29"  HorizontalAlignment="Left" Height="31" Margin="46,249,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="30"  HorizontalAlignment="Left" Height="31" Margin="102,249,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label Content="31"  HorizontalAlignment="Left" Height="31" Margin="158,249,0,0" VerticalAlignment="Top" Width="51" Background="#FF87B8AC"/>
+        <Label x:Name="lblDia" Content="" HorizontalAlignment="Left" Margin="363,64,0,0" VerticalAlignment="Top" Height="22" Width="29" Background="{x:Null}"/>
+        <Label x:Name="lblMes" HorizontalAlignment="Left" Margin="392,64,0,0" VerticalAlignment="Top" Height="22" Width="27" RenderTransformOrigin="0.306,0.652"/>
+        <ComboBox x:Name="cbxDia2" HorizontalAlignment="Left" Margin="46,26,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMes" HorizontalAlignment="Left" Height="23" Margin="186,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59"/>
+        <Label Content="Dia" HorizontalAlignment="Left" Margin="198,5,0,0" VerticalAlignment="Top"/>
+        <Label Content="Mes" HorizontalAlignment="Left" Margin="198,44,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
