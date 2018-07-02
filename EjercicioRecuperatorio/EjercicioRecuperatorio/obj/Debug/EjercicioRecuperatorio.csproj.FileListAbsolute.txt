@@ -1,0 +1,13 @@
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\bin\Debug\EjercicioRecuperatorio.exe.config
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\bin\Debug\EjercicioRecuperatorio.exe
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\bin\Debug\EjercicioRecuperatorio.pdb
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.csprojResolveAssemblyReference.cache
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\MainWindow.baml
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\MainWindow.g.cs
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\App.g.cs
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio_MarkupCompile.cache
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.g.resources
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.Properties.Resources.resources
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.csproj.GenerateResource.Cache
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.exe
+C:\Users\Rolando Villca\Desktop\EjercicioRecuperatorio\EjercicioRecuperatorio\obj\Debug\EjercicioRecuperatorio.pdb
