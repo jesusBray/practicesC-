@@ -1,0 +1,20 @@
+﻿<Window x:Class="Ejercicio20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Loaded="InitialPanel">
+        <ListBox x:Name="lbxListas" HorizontalAlignment="Left" Height="207" Margin="50,80,0,0" VerticalAlignment="Top" Width="191"/>
+        <Label Content="Tamaño del areglo:" HorizontalAlignment="Left" Margin="50,43,0,0" VerticalAlignment="Top" Width="115"/>
+
+        <TextBox x:Name="txtDatosEntrada" HorizontalAlignment="Left" Height="23" Margin="170,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71"/>
+        <Button x:Name="btnCrearArreglo" Content="Crear arreglo" HorizontalAlignment="Left" Margin="286,36,0,0" VerticalAlignment="Top" Width="139" Click="ClicCrearArreglo"/>
+        <Button x:Name="btnLlamarDatos" Content="Llamar datos" HorizontalAlignment="Left" Margin="286,73,0,0" VerticalAlignment="Top" Width="139" Click="ClicLlamarDatos"/>
+        <Button x:Name="btnMostrarDatos" Content="Mostrar datos" HorizontalAlignment="Left" Margin="286,108,0,0" VerticalAlignment="Top" Width="139" Click="ClicMostrarDatos"/>
+        <Button x:Name="btnSumaDeElementos" Content="Suma de elementos" HorizontalAlignment="Left" Margin="286,145,0,0" VerticalAlignment="Top" Width="139" Click="ClicSumaDeElementos"/>
+        <Button Content="Mayor que" HorizontalAlignment="Left" Margin="286,180,0,0" VerticalAlignment="Top" Width="139" KeyUp="ClicMayorQue"/>
+        <Label x:Name="lblResult" Content="Label" HorizontalAlignment="Left" Margin="280,269,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.307,-0.308" Width="55"/>
+        <Button Content="menor que" HorizontalAlignment="Left" Margin="286,217,0,0" VerticalAlignment="Top" Width="139" KeyUp="ClicMenorQue"/>
+        <Button Content="La media de elementos" HorizontalAlignment="Left" Margin="286,249,0,0" VerticalAlignment="Top" Width="139"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20_MarkupCompile.cache
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.g.resources
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.Properties.Resources.resources
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\usuario\Desktop\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.pdb
