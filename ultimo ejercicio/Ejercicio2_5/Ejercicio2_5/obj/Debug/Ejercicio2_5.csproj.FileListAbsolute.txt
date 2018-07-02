@@ -1,0 +1,26 @@
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.exe.config
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\MainWindow.baml
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\App.g.cs
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5_MarkupCompile.cache
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.g.resources
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.Properties.Resources.resources
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.exe
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.pdb
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.exe
+C:\Users\usuario\Desktop\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.pdb
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.exe.config
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.exe
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.pdb
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.csprojResolveAssemblyReference.cache
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\MainWindow.baml
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\MainWindow.g.cs
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\App.g.cs
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5_MarkupCompile.cache
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.g.resources
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.Properties.Resources.resources
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\obj\Debug\Ejercicio2_5.csproj.GenerateResource.Cache
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.exe
+G:\Programacion 1\2\ultimo ejercicio\Ejercicio2_5\Ejercicio2_5\bin\Debug\Ejercicio2_5.pdb
